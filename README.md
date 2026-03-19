@@ -1,4 +1,4 @@
-# SQL-Practice
+# MYSQL-Day1-beginner(select,where clause,operators,like,and group by)
 SQL practice repository for data analyst preparation. Includes queries on joins, aggregate functions, group by, having, and window functions .
 ## Topics Covered
 - SELECT Statement
